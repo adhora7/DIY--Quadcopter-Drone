@@ -7,13 +7,14 @@ This repository contains the build and setup information for my DIY quadcopter d
 
 - F450 Quadcopter Frame  
 - Brushless Motors (4x)  
--30A ESC(4x)
+- 30A ESCs (4x)  
 - KK2.1.5 Flight Controller  
 - Flysky FS-i6 Radio Transmitter and Receiver  
 - 3 Cell LiPo Battery (11.1V)  
 - Battery Strap  
 - IMAX B6 AC LiPo Balance Charger  
 - Zip Ties  
+
 
 ## Purpose
 
